@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@preact/signals-core": "^1.5.1",
+    "@react-three/uikit": "workspace:^"
+  },
+  "scripts": {
+    "dev": "vite --host",
+    "types": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@zappar/msdf-generator": "1.1.0-beta.11",
+    "suspend-react": "^0.1.3"
+  }
+}
