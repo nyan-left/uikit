@@ -13,7 +13,7 @@ function UI() {
       <Text fontSize={48} color="white">
         TTF Loader Example
       </Text>
-      <Text fontSize={24} color="gray">
+      <Text fontSize={24} color="gray" fontFamily="Bitcount Prop Single Regular">
         Loading fonts at runtime with @react-three/uikit-ttf
       </Text>
     </Fullscreen>
